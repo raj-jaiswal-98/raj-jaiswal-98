@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-jaiswal-98&label=Profile%20views&color=0e75b6&style=flat" alt="raj-jaiswal-98" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raj-jaiswal-98" alt="raj-jaiswal-98" /></a> </p>
-
 - 🎓 I’m currently studying at [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/)
 
 - 📫 How to reach me **rajwashere98@gmail.com**
@@ -27,6 +25,4 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/rajwashere98"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="rajwashere98" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-jaiswal-98&show_icons=true&locale=en&layout=compact" alt="raj-jaiswal-98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=raj-jaiswal-98&show_icons=true&locale=en" alt="raj-jaiswal-98" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=raj-jaiswal-98&show_icons=true&locale=en&layout=compact" alt="raj-jaiswal-98" /></p>
