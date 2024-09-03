@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **rajwashere98@gmail.com**
 
-- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1s9RF-3pi9ZUEppaP8shebwyFE4KLmq5H/view?usp=drive_link)](![CV](https://drive.google.com/file/d/1s9RF-3pi9ZUEppaP8shebwyFE4KLmq5H/view?usp=drive_link))
+- 📄 Know about my experiences [[CV](https://drive.google.com/file/d/1s9RF-3pi9ZUEppaP8shebwyFE4KLmq5H/view?usp=drive_link)]([CV](https://drive.google.com/file/d/1s9RF-3pi9ZUEppaP8shebwyFE4KLmq5H/view?usp=drive_link))
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
