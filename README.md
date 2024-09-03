@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raj-jaiswal-98&label=Profile%20views&color=0e75b6&style=flat" alt="raj-jaiswal-98" /> </p>
 
-- 🎓 I’m currently studying at [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/)
+- 🎓 I’m a Final Year student at [Indian Institute of Technology (BHU) Varanasi](https://www.iitbhu.ac.in/) majoring in **Mathematics and Computing**!
 
 - 📫 How to reach me **rajwashere98@gmail.com**
 
